@@ -1,0 +1,836 @@
+{
+  "website": {
+    "name": "goofy® × DONGTENG LTD. 企业官网",
+    "url": "https://liuhuihank.github.io/goofy-website/",
+    "language": "zh-CN",
+    "version": "2026-06-26",
+    "design_style": "Apple 极简风格，大留白，圆角卡片，柔和阴影，单页滚动布局，iframe 子页叠加层",
+    "page_structure": [
+      "全屏加载页 (Loader)",
+      "固定导航栏 (Navigation)",
+      "Hero 视频首屏",
+      "关于我们 / 数据展示",
+      "产品系列展示 (太阳能手电筒、露营灯、骑行前灯、头灯、骑行尾灯)",
+      "页脚 (Footer)",
+      "联系弹窗 (Contact Modal)",
+      "企业资质叠加页 (Patents Overlay)",
+      "产品详情叠加页 (Product Detail Overlay)"
+    ]
+  },
+  "company": {
+    "name": "goofy® × DONGTENG LTD.",
+    "brand": "Goofy & DONGTENG LTD.",
+    "title": "goofy® - 创新照明产品",
+    "hero_title": "创新照明点亮未来",
+    "hero_subtitle": "Goofy & DT 2026 春夏新品，重新定义户外照明体验",
+    "hero_badge": "新品上市",
+    "about_title": "15年专注户外照明",
+    "about_subtitle": "国货品质，匠心制造 — 打造户外照明领域的国际领先品牌首选工厂",
+    "stats": [
+      {
+        "number": "15+",
+        "label": "年行业经验"
+      },
+      {
+        "number": "10000m²",
+        "label": "厂房面积"
+      },
+      {
+        "number": "500+",
+        "label": "在职员工"
+      },
+      {
+        "number": "150+",
+        "label": "成熟产品"
+      },
+      {
+        "number": "5大系列",
+        "label": "照明品类"
+      }
+    ],
+    "description": "15年专注户外照明，国货品质，匠心制造。主营太阳能手电筒、露营灯、骑行灯、头灯等户外照明产品。"
+  },
+  "navigation": [
+    {
+      "text": "首页",
+      "href": "#home"
+    },
+    {
+      "text": "产品分类",
+      "href": "#products",
+      "sub_items": [
+        {
+          "text": "太阳能手电筒",
+          "href": "#solar"
+        },
+        {
+          "text": "露营灯",
+          "href": "#camping"
+        },
+        {
+          "text": "骑行前灯",
+          "href": "#bike-front"
+        },
+        {
+          "text": "头灯",
+          "href": "#headlamp"
+        },
+        {
+          "text": "骑行尾灯",
+          "href": "#bike-tail"
+        }
+      ]
+    },
+    {
+      "text": "1688店铺",
+      "href": "https://shop790043ii20360.1688.com/"
+    },
+    {
+      "text": "企业资质",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "联系",
+      "href": "javascript:void(0)"
+    }
+  ],
+  "product_series": [
+    {
+      "title_zh": "太阳能手电筒",
+      "title_en": "Solar Flashlight",
+      "description": "光能驱动，永不断电。户外应急必备照明工具。",
+      "count": "7 款产品",
+      "products": [
+        {
+          "model": "DT-309A",
+          "category": "基础型 · 便携应急",
+          "description": "太阳能手电筒",
+          "features": [
+            "太阳能面板充电，户外免电源",
+            "手摇发电，应急无忧",
+            "D型环挂扣，便携挂载",
+            "横向防滑纹路握持设计"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7702",
+          "category": "进阶型 · 三合一充电",
+          "description": "太阳能手电筒",
+          "features": [
+            "太阳能 + 手摇 + USB 三合一充电",
+            "双USB输出，可给手机应急充电",
+            "大号椭圆挂环，方便握持悬挂",
+            "USB输入约2小时充满"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7703",
+          "category": "高端型 · Type-C快充",
+          "description": "太阳能手电筒",
+          "features": [
+            "Type-C接口正反插拔，兼容现代设备",
+            "折叠式手摇曲柄，收纳紧凑",
+            "登山扣式挂环，专业户外挂载",
+            "双色可选：哑光黑 / 橄榄绿"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": "2026春夏系列"
+        },
+        {
+          "model": "DT-213U",
+          "category": "紧凑型 · 超大太阳能板",
+          "description": "太阳能手电筒",
+          "features": [
+            "系列最大受光面积太阳能板",
+            "背夹设计，腰带/口袋/背包带夹持",
+            "全黑哑光战术风格",
+            "传统直筒手电筒形态"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-805C",
+          "category": "全能应急型 · FM/AM收音",
+          "description": "多功能收音手电筒",
+          "features": [
+            "FM/AM 收音机，应急信息接收",
+            "120dB 高响度警报，一键启动",
+            "移动电源功能，USB 5.0V输出",
+            "高可见度橙色外壳，救援易定位"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7111",
+          "category": "200LM · 4000mAh · 蓝牙音箱",
+          "description": "圆形蓝牙音响灯",
+          "features": [
+            "蓝牙音箱+露营灯二合一",
+            "200LM高亮照明",
+            "4000mAh大容量电池，音乐≥20小时",
+            "100dB最大声压，5W喇叭功率"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7501C",
+          "category": "红白LED · 200mAh · 15.6g",
+          "description": "跑步灯",
+          "features": [
+            "仅15.6g超轻便",
+            "红白双色LED",
+            "续航天花板9小时",
+            "USB充电2小时满"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "title_zh": "露营灯",
+      "title_en": "Camping Lantern",
+      "description": "营地氛围照明，为你的户外之夜增添温暖与安全感。",
+      "count": "7 款产品",
+      "products": [
+        {
+          "model": "DT-7107A",
+          "category": "220LM高亮 · 可折叠收纳",
+          "description": "可折叠露营灯",
+          "features": [
+            "风琴式可折叠设计，展开/收纳便捷",
+            "220LM 高亮正白光，帐篷照明无忧",
+            "支持暖白光模式，营造温馨氛围",
+            "烛光模式，户外情调之选"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7106",
+          "category": "口袋级 · 100LM柔光",
+          "description": "迷你帐篷灯",
+          "features": [
+            "极简方块造型，口袋级便携",
+            "半透明磨砂外壳，天然柔光效果",
+            "亮黄色提手，视觉亮点+易携带",
+            "15小时超长续航"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7110F",
+          "category": "4800mAh · 三色温RGB",
+          "description": "多功能硅胶露营灯",
+          "features": [
+            "Apple风格极简设计，卡其+纯白配色",
+            "3000K-4500K-6000K 三色温可调",
+            "RGB七彩闪烁模式，派对氛围利器",
+            "超大4800mAh电池，移动电源功能"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7116A",
+          "category": "290LM · 双色温快充",
+          "description": "多功能露营灯",
+          "features": [
+            "290LM 高亮输出，系列中亮度最高",
+            "3000K-6000K 双色温切换",
+            "移动电源功能，应急充电",
+            "环保材料，抗摔耐用不发黄"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-928C",
+          "category": "超压缩 · 展开130mm→折叠47mm",
+          "description": "可折叠露营灯",
+          "features": [
+            "超压缩折叠：130mm→47mm，体积缩小近3倍",
+            "高可见度橙色，户外救援醒目",
+            "登山扣提手，专业户外挂载",
+            "SOS闪烁功能，紧急求救信号"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7112",
+          "category": "宝塔造型 · 4种灯光模式",
+          "description": "可折叠露营灯",
+          "features": [
+            "宝塔式风琴折叠，圆锥造型有设计感",
+            "4种灯光模式，满足不同场景",
+            "蜡烛灯模式80小时超长续航",
+            "IP44防水，IP等级系列最高"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7101",
+          "category": "蓝牙音箱 · 130LM三档调光",
+          "description": "蓝牙音箱露营灯",
+          "features": [
+            "蓝牙5.0音箱，10米接收距离",
+            "130LM三档亮度，照明+氛围兼备",
+            "同时照明+音乐播放，音乐续航12h",
+            "低亮模式22小时超长续航"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "title_zh": "骑行前灯",
+      "title_en": "Bike Front Light",
+      "description": "高亮度照明，照亮前方道路，守护骑行安全。",
+      "count": "11 款产品",
+      "products": [
+        {
+          "model": "DT-6103",
+          "category": "入门款 · 220LM · 喇叭130dB",
+          "description": "自行车前灯",
+          "features": [
+            "内置喇叭130dB高分贝警示",
+            "智能双开关，线控操控便利",
+            "6档循环切换，含暴闪模式",
+            "微亮模式26小时超长续航"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6105C",
+          "category": "正装入门 · 240LM双光源 · 蜂鸣器",
+          "description": "自行车前灯",
+          "features": [
+            "240LM双光源远/近光切换",
+            "内置蜂鸣器，5种声音模式可切换",
+            "Micro USB充电，3.5小时充满",
+            "照射距离≥100米（远光模式）"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6105Z",
+          "category": "正装入门 · 240LM双光源 · 蜂鸣器",
+          "description": "自行车前灯",
+          "features": [
+            "240LM双光源远/近光切换",
+            "内置蜂鸣器，5种声音模式可切换",
+            "Micro USB充电，3.5小时充满",
+            "照射距离≥100米（远光模式）"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6120",
+          "category": "双模旗舰 · 正装/吊装 · 1200LM",
+          "description": "自行车前灯",
+          "features": [
+            "1200LM超亮双灯，远/近光独立切换",
+            "Type-C充电接口，约6小时充满",
+            "日间+夜间双闪烁模式，全天候警示",
+            "标配旋转支架，遥控器选配"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": "2026春夏系列"
+        },
+        {
+          "model": "DT-6151",
+          "category": "吊装旗舰 · 铝合金 · 1000LM",
+          "description": "自行车前灯",
+          "features": [
+            "20W大功率LED，远光1000LM超亮",
+            "5000mAh超大容量电池",
+            "远/近光独立光路，各3档调节",
+            "日间+夜间双闪烁模式"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6152",
+          "category": "吊装旗舰 · 铝合金 · 1200LM",
+          "description": "自行车前灯",
+          "features": [
+            "20W高功率LED，远光1200LM超亮",
+            "Type-C充电，约6小时充满",
+            "远/近光独立光路，各3档调节",
+            "近光低亮11.5小时超长续航"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": "2026春夏系列"
+        },
+        {
+          "model": "DT-6109",
+          "category": "正装进阶 · 280LM · 震动防盗",
+          "description": "自行车前灯",
+          "features": [
+            "2×5W大功率5050灯珠，280LM稳定输出",
+            "内置震动防盗报警，长按开启/关闭",
+            "蜂鸣器5种音效，骑行警示+防盗",
+            "射程≥150米，比6105系列提升50%"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6131A",
+          "category": "正装进阶 · 铝合金 · 300LM",
+          "description": "自行车前灯",
+          "features": [
+            "T6灯珠300LM高亮，6档循环切换",
+            "微亮模式40小时超长续航",
+            "智能记忆：停留5秒后关灯，下次同档位开启",
+            "长按2秒快捷关闭"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6132",
+          "category": "正装进阶 · 铝合金 · Type-C",
+          "description": "自行车前灯",
+          "features": [
+            "T6灯珠350LM高亮，比6131A提升17%",
+            "Type-C充电接口，现代通用",
+            "4000mAh大电池，微亮模式80小时",
+            "智能记忆关灯，使用更便捷"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6131B",
+          "category": "正装进阶 · 铝合金 · 300LM",
+          "description": "自行车前灯",
+          "features": [
+            "T6灯珠300LM，6档循环切换",
+            "2500mAh电池，续航比6131A大幅提升",
+            "微亮模式60小时，户外多日无忧",
+            "智能记忆关灯，使用便捷"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6131C",
+          "category": "正装进阶 · 铝合金 · 4000mAh",
+          "description": "自行车前灯",
+          "features": [
+            "4000mAh大电池，高亮4小时超长续航",
+            "微亮模式80小时，户外多日无忧",
+            "6档循环切换，带记忆关灯功能",
+            "充电7小时充满"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "title_zh": "头灯",
+      "title_en": "Headlamp",
+      "description": "解放双手，轻量舒适。适合露营、徒步、维修等场景。",
+      "count": "4 款产品",
+      "products": [
+        {
+          "model": "DT-7606",
+          "category": "基础型 · CREE光源 · 42g轻量",
+          "description": "LED头灯",
+          "features": [
+            "CREE-XPG2 高光效LED灯珠",
+            "仅42g超轻量头灯，佩戴无负担",
+            "3节AAA干电池供电，更换方便",
+            "紧凑小巧：70×45×41mm"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7607A",
+          "category": "主辅双灯 · CREE XPG3 · 射程150m",
+          "description": "双光源LED头灯",
+          "features": [
+            "CREE-XPG3R5主灯，90LM远射100-150米",
+            "5050暖白辅灯，50LM近距柔和照明",
+            "IP44防雨防水等级",
+            "ABS+PC外壳，抗摔耐用"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7607B",
+          "category": "Type-C充电 · 主辅双灯 · 距离感应",
+          "description": "双光源感应LED头灯",
+          "features": [
+            "主灯90LM远射+辅灯50LM近照双模式",
+            "LED寿命≥3万小时，5050暖白珠2800-3200K",
+            "红外距离感应：挥手即开关，感应距离10cm",
+            "Type-C可充电800mAh锂电池，2.5h充满"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7609",
+          "category": "300LM · CREE XPG3 · 远近光自适应",
+          "description": "高亮感应LED头灯",
+          "features": [
+            "CREE XPG3灯珠，最高300LM亮度",
+            "远近光自适应：根据距离自动调节亮度",
+            "主灯3档调光：高-中-低 + 双击闪烁",
+            "辅灯2档：高-低，续航长达12小时"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "title_zh": "骑行尾灯",
+      "title_en": "Bike Tail Light",
+      "description": "醒目警示，多模式智能感应，保障夜间骑行安全。",
+      "count": "14 款产品",
+      "products": [
+        {
+          "model": "DT-6001 系列",
+          "category": "可选红白光/红蓝光 · 250mAh · IPX4",
+          "description": "充电款自行车尾灯",
+          "features": [
+            "可选红白光/红蓝光两种光色",
+            "交替闪烁30小时超长",
+            "USB充电1小时充满",
+            "仅27g超轻量"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6003 系列",
+          "category": "可选红白光/红蓝白光 · 250mAh · IP45",
+          "description": "圆形COB自行车尾灯",
+          "features": [
+            "可选红白光/红蓝白光",
+            "圆形COB紧凑设计",
+            "白光15小时超长续航",
+            "IP45高防护等级"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6005 系列",
+          "category": "可选白光/红蓝光 · 200mAh · 18.6g",
+          "description": "自行车警示尾灯",
+          "features": [
+            "可选白光/红蓝光",
+            "仅18.6g超轻",
+            "警示范围100米",
+            "磁吸安装"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6002C",
+          "category": "红蓝白COB · 500mAh · IP45",
+          "description": "条形COB自行车尾灯",
+          "features": [
+            "红蓝白三色COB光源",
+            "6种灯光模式",
+            "500mAh大容量电池",
+            "IP45高防护"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6006",
+          "category": "红蓝COB · 500mAh · IPX3",
+          "description": "自行车警示尾灯",
+          "features": [
+            "红蓝双色COB警示",
+            "500mAh锂电池",
+            "5种灯光模式",
+            "警示范围100m"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6017A",
+          "category": "16颗3014灯珠 · 300mAh · 15LM",
+          "description": "充电款自行车灯",
+          "features": [
+            "16颗3014灯珠阵列",
+            "低亮模式30小时超长",
+            "6档循环切换",
+            "IPX4防雨"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7505B",
+          "category": "红白COB · 500mAh · IP45",
+          "description": "自行车警示尾灯",
+          "features": [
+            "红白双色COB",
+            "多种交替模式",
+            "IP45防护",
+            "500mAh电池"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7505C",
+          "category": "红蓝白COB · 500mAh · 10h闪烁",
+          "description": "自行车警示尾灯",
+          "features": [
+            "红蓝白三色COB",
+            "6种灯光模式",
+            "闪烁10小时超长",
+            "IP45高防护"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7505D",
+          "category": "红蓝COB · 5种模式 · 500mAh · IP45",
+          "description": "自行车警示尾灯",
+          "features": [
+            "红蓝双色COB光源",
+            "5种灯光模式",
+            "500mAh大容量电池",
+            "IP45高防护"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-7505E",
+          "category": "纯红光 · 6种模式 · 500mAh · IP45",
+          "description": "自行车警示尾灯",
+          "features": [
+            "纯红光6种模式",
+            "脉冲+爆闪专属",
+            "闪烁15小时超长",
+            "IP45高防护"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6002G",
+          "category": "刹车感应 · 无线遥控 · 红黄双光COB · 500mAh · IPX4",
+          "description": "智能转向自行车尾灯",
+          "features": [
+            "智能刹车感应自动亮灯",
+            "无线遥控器操控转向",
+            "红黄双色大功率COB",
+            "Type-C快充2小时满"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6011A",
+          "category": "红黄双光 · 无线遥控 · 刹车感应",
+          "description": "智能转向自行车尾灯",
+          "features": [
+            "智能刹车感应自动亮灯",
+            "无线遥控器操控转向",
+            "红黄双光大功率LED，5W",
+            "Type-C快充2小时满"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6011B",
+          "category": "长条款进阶 · 待补充",
+          "description": "自行车尾灯",
+          "features": [
+            "待补充"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        },
+        {
+          "model": "DT-6011C",
+          "category": "长条款进阶 · 待补充",
+          "description": "自行车尾灯",
+          "features": [
+            "待补充"
+          ],
+          "certifications": [
+            "CE",
+            "RoHS"
+          ],
+          "badge": ""
+        }
+      ]
+    }
+  ],
+  "total_products": 43,
+  "patents": {
+    "title": "企业资质 — 专利与认证",
+    "description": "深耕户外照明领域，累计获得多项国家外观专利及检测相关认证，以技术创新铸就产品核心竞争力。",
+    "sections": []
+  },
+  "contact": {
+    "methods": [],
+    "phone": "13968835538",
+    "email": "sales6@dongteng.cn",
+    "wechat": "扫码或点击添加",
+    "whatsapp": "",
+    "address": "浙江省丽水市通济街95号 21栋西首",
+    "store_1688": "https://shop790043ii20360.1688.com/"
+  }
+}
